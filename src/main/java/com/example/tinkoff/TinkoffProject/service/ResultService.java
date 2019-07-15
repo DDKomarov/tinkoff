@@ -13,7 +13,6 @@ import java.util.Date;
 /*
  * Service for Result entity
  *
-
  */
 
 @Service

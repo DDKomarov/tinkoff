@@ -6,9 +6,8 @@ import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
 /*
- * CRUD repository for Result entity
+ *  repository for Result entity
  *
- * @date 18.09.2018
  *  */
 
 @Repository
